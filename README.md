@@ -1,5 +1,10 @@
 # snmprec_centreon_plugins
 
+
+<img style="align=center" src="logo_snmprec.png"></img>
+
+---
+
 Missing files (empty ones)
 
 - ./cloud_nutanix_snmp_plugin.snmprec
